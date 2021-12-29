@@ -1,4 +1,4 @@
-### TITLE
+
 
 <!--
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## TITLE
+## Seth Scott
 
 [![](https://img.shields.io/badge/LinkedIn-seth--scott-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin]
 [![](https://img.shields.io/badge/Gmail-s.scottvancouverwa%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail]
@@ -21,23 +21,31 @@ Here are some ideas to get you started:
 
 
 
-### Current Projects: 
+#### ⚡**i'm currently working on:**
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![openCV](https://img.shields.io/badge/-openCV-000000?style=flat&logo=openCV&logoColor=5C3EE8)
 ![pyTorch](https://img.shields.io/badge/-pyTorch-000000?style=flat&logo=pyTorch)
 
-### Languages
 
+Hi!
+
+#### 🛠 **tools:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=#00599C)
-
-### Technologies and Tools
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![WireGuard](https://img.shields.io/badge/-WireGuard-000000?style=flat&logo=wireguard&logoColor=88171A)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-000000?style=flat&logo=openvpn&logoColor)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+####  🧬**interests**
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat&logo=raspberrypi&logoColor=A22846)
+![Unraid](https://img.shields.io/badge/-Unraid-000000?style=flat&logo=unraid)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-000000?style=flat&logo=truenas)
 ---
 
 
