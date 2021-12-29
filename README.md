@@ -12,22 +12,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Seth Scott
+### Seth Scott
+<!-- [![](https://img.shields.io/badge/LinkedIn-seth--scott-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin] -->
+<!-- [![](https://img.shields.io/badge/Gmail-s.scottvancouverwa%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail] -->
 
-[![](https://img.shields.io/badge/LinkedIn-seth--scott-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin]
-[![](https://img.shields.io/badge/Gmail-s.scottvancouverwa%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail]
-
-<!-- [![](https://img.shields.io/badge/HackerRank-joseph__zabaleta-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)][hackerrank] -->
-
-
-
-#### ⚡**i'm currently working on:**
+Hi!
+#### ⚡ **i'm currently working on:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![openCV](https://img.shields.io/badge/-openCV-000000?style=flat&logo=openCV&logoColor=5C3EE8)
 ![pyTorch](https://img.shields.io/badge/-pyTorch-000000?style=flat&logo=pyTorch)
 
 
-Hi!
+
 
 #### 🛠 **tools:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -46,12 +42,10 @@ Hi!
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat&logo=raspberrypi&logoColor=A22846)
 ![Unraid](https://img.shields.io/badge/-Unraid-000000?style=flat&logo=unraid)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-000000?style=flat&logo=truenas)
+
 ---
 
 
-<!-- [![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
-
-<!-- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
 
 </details>
 
