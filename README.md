@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Seth Scott
 <!-- [![](https://img.shields.io/badge/LinkedIn-seth--scott-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin] -->
 <!-- [![](https://img.shields.io/badge/Gmail-s.scottvancouverwa%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail] -->
 
 Hi!
 #### ⚡ **i'm currently working on:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![openCV](https://img.shields.io/badge/-openCV-000000?style=flat&logo=openCV&logoColor=5C3EE8)
+![openCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=openCV&logoColor=5C3EE8)
 ![pyTorch](https://img.shields.io/badge/-pyTorch-000000?style=flat&logo=pyTorch)
 
 
@@ -27,7 +26,6 @@ Hi!
 
 #### 🛠 **tools:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=#00599C)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
