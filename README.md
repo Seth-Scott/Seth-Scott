@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <!-- [![](https://img.shields.io/badge/LinkedIn-seth--scott-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin] -->
 <!-- [![](https://img.shields.io/badge/Gmail-s.scottvancouverwa%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail] -->
 
-Hi!
 #### ⚡ **i'm currently working on:**
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![openCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=openCV&logoColor=5C3EE8)
 ![pyTorch](https://img.shields.io/badge/-pyTorch-000000?style=flat&logo=pyTorch)
@@ -29,10 +29,14 @@ Hi!
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Fusion360](https://img.shields.io/badge/-Fusion360-000000?style=flat&logo=autodesk)
+
 ![WireGuard](https://img.shields.io/badge/-WireGuard-000000?style=flat&logo=wireguard&logoColor=88171A)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-000000?style=flat&logo=openvpn&logoColor)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
+![Solidworks](https://img.shields.io/badge/-SolidWorks-000000?style=flat&logo=dassaultsystemes)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 ####  🧬**interests**
