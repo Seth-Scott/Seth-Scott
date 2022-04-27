@@ -27,14 +27,18 @@ Here are some ideas to get you started:
 ### 🛠 **tools:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Fusion360](https://img.shields.io/badge/-Fusion360-000000?style=flat&logo=autodesk)
-
 ![WireGuard](https://img.shields.io/badge/-WireGuard-000000?style=flat&logo=wireguard&logoColor=88171A)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-000000?style=flat&logo=openvpn&logoColor)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
 ![Solidworks](https://img.shields.io/badge/-SolidWorks-000000?style=flat&logo=dassaultsystemes)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
